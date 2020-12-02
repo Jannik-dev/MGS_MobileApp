@@ -6,6 +6,6 @@ A new Flutter application.
 
 It will automatically create timtables for schools.
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![Homepage](https://github.com/Jannik-dev/MGS_MobileApp/blob/main/img/Screenshot_2020-12-02-11-31-01-966_com.jntechnologies.mgs.jpg)
+![Settings](http://url/to/img.png)
+![Options](http://url/to/img.png)
