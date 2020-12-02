@@ -6,19 +6,19 @@ List<Widget> getCourses() {
   List<Widget> listDisplay = new List<Widget>();
 
   courses.add(
-      new Course(1, "Mathe", "Frau Weiß", "300", true, false, false, false));
+      new Course(1, "Mathe", "Frau W", "300", true, false, false, false));
   courses.add(
-      new Course(2, "Mathe", "Frau Weiß", "300", false, false, false, false));
+      new Course(2, "Mathe", "Frau W", "300", false, false, false, false));
   courses.add(
-      new Course(3, "Deutsch", "Herr Birth", "097", false, true, false, false));
+      new Course(3, "Deutsch", "Herr B", "097", false, true, false, false));
   courses.add(new Course(
-      4, "Deutsch", "Herr Birth", "097", false, false, false, false));
+      4, "Deutsch", "Herr B", "097", false, false, false, false));
   courses.add(new Course(
-      5, "Geschichte", "Herr Pusse", "245", false, false, true, false));
+      5, "Geschichte", "Herr P", "245", false, false, true, false));
   courses.add(new Course(
-      6, "Geschichte", "Herr Pusse", "245", false, false, false, true));
+      6, "Geschichte", "Herr P", "245", false, false, false, true));
   courses.add(new Course(
-      7, "Geschichte", "Herr Pusse", "245", false, false, false, false));
+      7, "Geschichte", "Herr P", "245", false, false, false, false));
 
   listDisplay = courses;
   Widget dividerBreak(String s) {
