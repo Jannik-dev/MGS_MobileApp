@@ -34,7 +34,7 @@ class _MySettingsState extends State<MySettings> {
                 "Profil",
                 style: TextStyle(fontSize: 25),
               )),
-          Option("Name:", "Jochen Schröder", "Geben Sie ihren Namen an"),
+          Option("Name:", "J S", "Geben Sie ihren Namen an"),
           Option("Klasse:", "Q2c", "Geben Sie ihre Klasse an"),
           Padding(
               padding: EdgeInsets.fromLTRB(3, 20, 10, 8),
